@@ -1,8 +1,8 @@
-print('| CONVERSOR DE GRAUS PARA FAHRENHEIT |')
+print('| CONVERSOR DE FAHRENHEIT PARA CELSIUS |')
 
 fahrenheit = float(input('Informe a temperatura em Fahrenheit: '))
 
-celsius = 5 * ((fahrenheit - 32) / 9)
+celsius = ((fahrenheit - 32) * 5 / 9)
 print('A temperatura em Celsius é: ' + str(celsius))
 
-print('Tecle "Enter" para sair...')
+input('Tecle "Enter" para sair...')
