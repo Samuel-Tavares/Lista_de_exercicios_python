@@ -1,1 +1,0 @@
-# Lista_de_exercicios_python
