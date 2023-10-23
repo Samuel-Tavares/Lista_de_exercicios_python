@@ -11,4 +11,4 @@ nota4 = float(input(
     'Informe sua 4° nota:'
 ))
 media = (nota1 + nota2 + nota3 + nota4) / 4
-print('Sua nota no bimestre foi: ' + str(media))
+print('Sua media no bimestre foi: ' + str(media))
